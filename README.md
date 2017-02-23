@@ -10,3 +10,6 @@ I'm using this tool for decompile the Original APK :
 (3) grep by GnuWin32;
 (4) Notepad++ by Don Ho;
 (5) Java SDK 8 121 by Oracle
+
+(c)2017 by arudeiandeita at xda-developer---
+---23-02-2017 09:53 AM GMT+7 Surabaya, Indonesia
